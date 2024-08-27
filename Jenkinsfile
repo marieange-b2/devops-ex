@@ -20,16 +20,17 @@ pipeline {
 			steps {
 				sh 'mvn test'
 			}
-			post {
-				success {
-					echo 'Generated Chekstyle analysis results.'
-				}
-			}
+			
 		}
 
 		stage('Checkstyle Analysis'){
 			steps {
 				sh 'mvn checkstyle:checkstyle'
+			}
+			post {
+				success {
+					echo 'Generated Chekstyle analysis results.'
+				}
 			}
 		}
 	}
