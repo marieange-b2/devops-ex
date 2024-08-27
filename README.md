@@ -5,7 +5,7 @@ Main contains the base app yet to be built with 'mvn'.
 
 Different automation tools will be represented in the various branches.
 
-Thank you (https://github.com/hkhcoder/vprofile-project)[https://github.com/hkhcoder/vprofile-project] for the course materials!!
+Thank you [https://github.com/hkhcoder/vprofile-project](https://github.com/hkhcoder/vprofile-project) for the course materials!!
 
 # Prerequisites
 #
