@@ -1,7 +1,7 @@
 # About
 Base repository used for the **Infrastructure as Code** exercises and experiments.
 
-Main contains the base app yet to be built with 'mvn'.
+Main contains the base app yet to be built with `mvn`.
 
 Different automation tools will be represented in the various branches.
 
